@@ -2,7 +2,7 @@
 <a href='https://leetcode.com/DM-09/'><img src="https://leet-code-card.vercel.app/v1/DM-09" /></a>
 
 
-Leet Code의 문제 해결 정보를 예쁘게 보여줍니다.
+Leet Code의 문제 해결 정보를 예쁘게 표시합니다.
 <br><br>
 It displays Leet Code problem solving information beautifully.
 
