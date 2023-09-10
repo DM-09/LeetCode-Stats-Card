@@ -7,6 +7,6 @@ Leet Code의 문제 해결 정보를 예쁘게 보여줍니다.
 It displays Leet Code problem solving information beautifully.
 
 ### Usage 사용법
-```
+```HTML
 <img src="https://leet-code-card.vercel.app/v1/{user name}"></img>
 ```
